@@ -1,8 +1,6 @@
 # Django React Ecommerce
 
-<p align="center">
-  <a href="https://youtu.be/RG_Y7lIDXPM"><img src="https://github.com/justdjango/django-react-ecommerce/blob/master/thumbnail.png" width="290"></a>
-</p>
+
 
 
 ## Backend development workflow
